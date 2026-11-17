@@ -1,0 +1,19 @@
+# Data cannot be shared: never commit it
+source/
+fetched/
+intermediate/
+final/
+logs/
+plots/
+exports/
+*.csv
+*.parquet
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
+*.geojson
+*.xlsx
+__pycache__/
+*.pyc
